@@ -8,8 +8,11 @@ using namespace std;
 
 int main()
 {
-	int a, b;
-	scanf("%d %d", &a, &b);
-	printf("%d\n", a + b);
+	int N;
+	scanf("%d", &N);
+	for (int i = 1; i <= N; i++)
+	{
+		printf("%d\n", i);
+	}
 	return 0;
 }
