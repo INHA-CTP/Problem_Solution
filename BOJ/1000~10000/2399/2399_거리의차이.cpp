@@ -1,3 +1,8 @@
+/*
+	Author : Hak kyu, Kim
+	Date : 19.04.02
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <string>

@@ -1,3 +1,10 @@
+/*
+	Author : Hak kyu, Kim
+	Date : 19.04.02
+	Problem Number:  7785
+	Problem Name: 회사에있는사람
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <string>

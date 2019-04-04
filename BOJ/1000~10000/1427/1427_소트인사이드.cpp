@@ -1,3 +1,10 @@
+/*
+	Author : Hak kyu, Kim
+	Date : 19.04.02
+	Problem Number:  1427
+	Problem Name: 소트인사이드
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <string>

@@ -1,3 +1,10 @@
+/*
+	Author : Hak kyu, Kim
+	Date : 19.04.02
+	Problem Number:  3047
+	Problem Name: ABC
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <string>
