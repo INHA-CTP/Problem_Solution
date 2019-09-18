@@ -3,7 +3,7 @@
 const int MAX = 1e5;
 
 int n, m, o, s, t;
-int tree[MAX * 4], lazy[MAX * 4], onoff[MAX * 4];
+int tree[MAX * 4], lazy[MAX * 4];
 
 void update_lazy(int node, int start, int end) {
 
